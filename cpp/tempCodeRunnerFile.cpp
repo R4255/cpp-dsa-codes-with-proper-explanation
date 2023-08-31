@@ -1,0 +1,1 @@
+Node* temp=ll.head;
